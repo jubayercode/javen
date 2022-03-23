@@ -64,7 +64,7 @@ $(function () {
     // js for preloder
     $(window).on('load', function(){
         
-        $('.preloder').fadeOut(500);
+        $('.preloder').fadeOut();
         
     });
     
